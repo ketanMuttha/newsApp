@@ -1,0 +1,2 @@
+# newsApp
+show latest news
